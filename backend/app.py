@@ -445,6 +445,10 @@ def case_update():
         'status': 'failure',
         'message': 'Give a field to update it'
     }), 400
-         
+
+
+
+
+jawahar 1
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=5000, debug=True)
